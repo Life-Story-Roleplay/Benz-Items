@@ -1,0 +1,50 @@
+Config.DefaultPrice = 10
+
+Config.Items = {
+    beverages = {
+        "coffee",
+        "ecola",
+        "ecolalight",
+        "sprunk",
+        "sprunklight",
+        "water_bottle"
+    },
+    food = {
+        "twerks_candy",
+        "snikkel_candy",
+        "crisps",
+        "nachos"
+    }
+}
+
+-- INVENTORIES 
+local invCoffee = {
+    { name = "coffee", price = 10 }
+}
+
+local invSoda = {
+    { name = "ecola", price = 10 },
+    { name = "ecolalight", price = 10 },
+    { name = "sprunk", price = 10 },
+    { name = "sprunklight", price = 10 },
+}
+
+local invWater = {
+    { name = "water_bottle", price = 10 }
+}
+
+local invSnack = {
+    { name = "twerks_candy", price = 10 },
+    { name = "snikkel_candy", price = 10 },
+    { name = "crisps", price = 10 },
+}
+
+local invFood = {
+    { name = "nachos", price = 10 },
+    { name = "tosti", price = 10 },
+    { name = "sandwich", price = 10 },
+    { name = "minticecream", price = 10 },
+    { name = "chocolateicecream", price = 10 },
+    { name = "vanillaicecream", price = 10 },
+    { name = "cookiesandcreamicecream", price = 10 },
+}
