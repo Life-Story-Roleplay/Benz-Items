@@ -1,0 +1,28 @@
+Config.ConsumablesEat = {
+
+    --["sandwich"] = math.random(35, 54),
+}
+
+Config.ConsumablesDrink = {
+    --["water_bottle"] = math.random(35, 54),
+}
+
+Config.ConsumablesAlcohol = {
+    --["whiskey"] = math.random(20, 30),
+}
+
+ConsumeablesEatSuperDonut = {
+    --["superdonut"] = math.random(5, 30),
+}
+
+ConsumeablesSlushy = {
+    --["redslushy"] = math.random(15, 25),
+}
+
+ConsumeablesEatIceCream = {
+    --["vanillaicecream"] = math.random(12, 20),
+}
+
+ConsumeablesEatGumBall = {
+    --["bubblegum_gumball"] = math.random(6, 8),
+}
