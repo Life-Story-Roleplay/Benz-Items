@@ -1,0 +1,1930 @@
+            [10] = {
+                itemName = "barry",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [11] = {
+                itemName = "lenny",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [12] = {
+                itemName = "hanno",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [13] = {
+                itemName = "kiki",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [14] = {
+                itemName = "saki",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [15] = {
+                itemName = "poopy",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [16] = {
+                itemName = "muffy",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [17] = {
+                itemName = "humpy",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [18] = {
+                itemName = "grindy",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [19] = {
+                itemName = "smokey",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [20] = {
+                itemName = "bjorn",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [21] = {
+                itemName = "buddha",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [22] = {
+                itemName = "clayvon",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [23] = {
+                itemName = "donnie",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [24] = {
+                itemName = "gloryon",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [25] = {
+                itemName = "lando",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [26] = {
+                itemName = "leyla",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [27] = {
+                itemName = "meowfurryon",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [28] = {
+                itemName = "stagdancer",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [29] = {
+                itemName = "sven",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [30] = {
+                itemName = "yeager",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [31] = {
+                itemName = "aangairbubble_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [32] = {
+                itemName = "admiralzhao_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [33] = {
+                itemName = "appa_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [34] = {
+                itemName = "azula_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [35] = {
+                itemName = "iroh_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [36] = {
+                itemName = "katara_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [37] = {
+                itemName = "sokka_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [38] = {
+                itemName = "suki_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [39] = {
+                itemName = "toph_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [40] = {
+                itemName = "zuko_chase_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [41] = {
+                itemName = "bluehulk",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [42] = {
+                itemName = "greenhulk",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [43] = {
+                itemName = "orangehulk",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [44] = {
+                itemName = "purplehulk",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [45] = {
+                itemName = "redhulk",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [46] = {
+                itemName = "yellowhulk",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [47] = {
+                itemName = "ariel",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [48] = {
+                itemName = "belle",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [49] = {
+                itemName = "cinderella",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [50] = {
+                itemName = "jasmine",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [51] = {
+                itemName = "jessrabbit",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [52] = {
+                itemName = "rapunzel",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [53] = {
+                itemName = "tiana",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [54] = {
+                itemName = "tinkerbell",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [55] = {
+                itemName = "bayley_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [56] = {
+                itemName = "beckylynch_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [57] = {
+                itemName = "briebella_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [58] = {
+                itemName = "charlotteflair_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [59] = {
+                itemName = "evamarie_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [60] = {
+                itemName = "naomi_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [61] = {
+                itemName = "nikkibella_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [62] = {
+                itemName = "paige_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [63] = {
+                itemName = "rondarousey_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [64] = {
+                itemName = "sashabanks_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [65] = {
+                itemName = "trishstratus_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [66] = {
+                itemName = "annabelle_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [67] = {
+                itemName = "beetlejuice_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [68] = {
+                itemName = "boogeyman_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [69] = {
+                itemName = "carrie_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [70] = {
+                itemName = "chucky_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [71] = {
+                itemName = "freddy_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [72] = {
+                itemName = "jasonvoorhees_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [73] = {
+                itemName = "leatherface_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [74] = {
+                itemName = "michaelmyers_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [75] = {
+                itemName = "pennywise_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [76] = {
+                itemName = "pennywiseballoon_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [77] = {
+                itemName = "pinhead_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [78] = {
+                itemName = "thecreeper_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [79] = {
+                itemName = "ajstyles_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [80] = {
+                itemName = "andrethegiant_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [81] = {
+                itemName = "hardyboys_2packpop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [82] = {
+                itemName = "hulkhogan_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [83] = {
+                itemName = "johncena_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [84] = {
+                itemName = "kane_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [85] = {
+                itemName = "kurtangle_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [86] = {
+                itemName = "machoman_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [87] = {
+                itemName = "mickfoley_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [88] = {
+                itemName = "mrt_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [89] = {
+                itemName = "natureboy_ricflair_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [90] = {
+                itemName = "randyorton_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [91] = {
+                itemName = "reymysterio_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [92] = {
+                itemName = "sting_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [93] = {
+                itemName = "teddibiase_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [94] = {
+                itemName = "theheartbreakkid_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [95] = {
+                itemName = "therock_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [96] = {
+                itemName = "tripleh_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [97] = {
+                itemName = "undertaker_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [98] = {
+                itemName = "undertakerspecial_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [99] = {
+                itemName = "charlottehornets_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [100] = {
+                itemName = "damianlillard_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [101] = {
+                itemName = "georgegervin_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [102] = {
+                itemName = "johnwall_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [103] = {
+                itemName = "kobe_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [104] = {
+                itemName = "lebronjames_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [105] = {
+                itemName = "lukadoncic_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [106] = {
+                itemName = "michaeljordan_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [107] = {
+                itemName = "thecoyote_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [108] = {
+                itemName = "zionwilliamson_pop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [109] = {
+                itemName = "april",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [110] = {
+                itemName = "baxter",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [111] = {
+                itemName = "bebop",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [112] = {
+                itemName = "caseyjones",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [113] = {
+                itemName = "donatello",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [114] = {
+                itemName = "donatello1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [115] = {
+                itemName = "footsoldier",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [116] = {
+                itemName = "leatherhead",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [117] = {
+                itemName = "leonardo",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [118] = {
+                itemName = "leonardo1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [119] = {
+                itemName = "michel",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [120] = {
+                itemName = "michel1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [121] = {
+                itemName = "michel2",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [122] = {
+                itemName = "raphael",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [123] = {
+                itemName = "raphael1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [124] = {
+                itemName = "rocksteady",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [125] = {
+                itemName = "shredder",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [126] = {
+                itemName = "splinter",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [127] = {
+                itemName = "andy",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [128] = {
+                itemName = "angela",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [129] = {
+                itemName = "angela1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [130] = {
+                itemName = "creed",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [131] = {
+                itemName = "creed1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [132] = {
+                itemName = "darryl",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [133] = {
+                itemName = "datemike",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [134] = {
+                itemName = "dundie",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [135] = {
+                itemName = "dwight",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [136] = {
+                itemName = "dwight1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [137] = {
+                itemName = "dwight2",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [138] = {
+                itemName = "erin",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [139] = {
+                itemName = "jan",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [140] = {
+                itemName = "jim",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [141] = {
+                itemName = "jim1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [142] = {
+                itemName = "kelly",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [143] = {
+                itemName = "kevin",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [144] = {
+                itemName = "kevin1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [145] = {
+                itemName = "meredith",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [146] = {
+                itemName = "michael",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [147] = {
+                itemName = "michael1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [148] = {
+                itemName = "michael2",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [149] = {
+                itemName = "mose",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [150] = {
+                itemName = "oscar",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [151] = {
+                itemName = "oscar1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [152] = {
+                itemName = "pam",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [153] = {
+                itemName = "pam1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [154] = {
+                itemName = "phyllis",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [155] = {
+                itemName = "phyllis1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [156] = {
+                itemName = "prisonmike",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [157] = {
+                itemName = "ryan",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [158] = {
+                itemName = "stanley",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [159] = {
+                itemName = "biggie",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [160] = {
+                itemName = "biggie1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [161] = {
+                itemName = "biggie2",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [162] = {
+                itemName = "biggie3",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [163] = {
+                itemName = "biggie4",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [164] = {
+                itemName = "biggie5",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [165] = {
+                itemName = "brabbit",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [166] = {
+                itemName = "catman",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [167] = {
+                itemName = "coreytaylor",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [168] = {
+                itemName = "craigjones",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [169] = {
+                itemName = "demon",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [170] = {
+                itemName = "dmc",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [171] = {
+                itemName = "duffmckagan",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [172] = {
+                itemName = "george",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [173] = {
+                itemName = "icecube",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [174] = {
+                itemName = "jameshetfield",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [175] = {
+                itemName = "jammaster",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [176] = {
+                itemName = "joeelliott",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [177] = {
+                itemName = "joeperry",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [178] = {
+                itemName = "john",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [179] = {
+                itemName = "kirkhammett",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [180] = {
+                itemName = "larsulrich",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [181] = {
+                itemName = "lemmykilmister",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [182] = {
+                itemName = "lilwayne",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [183] = {
+                itemName = "paul",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [184] = {
+                itemName = "pepa",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [185] = {
+                itemName = "philcollen",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [186] = {
+                itemName = "postmalone",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [187] = {
+                itemName = "rickallen",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [188] = {
+                itemName = "ricksavage",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [189] = {
+                itemName = "ringo",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [190] = {
+                itemName = "roberttrujillo",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [191] = {
+                itemName = "run",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [192] = {
+                itemName = "salt1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [193] = {
+                itemName = "sidwilson",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [194] = {
+                itemName = "slash",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [195] = {
+                itemName = "spaceman",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [196] = {
+                itemName = "starchild",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [197] = {
+                itemName = "steventyler",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [198] = {
+                itemName = "tupac",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [199] = {
+                itemName = "tupac1",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [200] = {
+                itemName = "tupac2",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [201] = {
+                itemName = "viviancampbell",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },
+            [202] = {
+                itemName = "warpig",
+
+                model = "ch_prop_master_09a",
+                offset = vector3(-0.06, 0.37, 0.85),
+                heading = 0.0,
+                IsRare = true,
+
+                ChanceToDrop = 0.10, -- 10% chance of drop
+            },

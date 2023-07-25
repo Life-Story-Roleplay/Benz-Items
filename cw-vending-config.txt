@@ -7,44 +7,119 @@ Config.Items = {
         "ecolalight",
         "sprunk",
         "sprunklight",
-        "water_bottle"
+        "water_bottle",
+        "duffbeer",
+        "faygo-cottoncandy",
+        "faygo-cream",
+        "faygo-orange",
+        "faygo-pineapple",
+        "faygo-redpop",
+        "el-mango",
+        "hemp-prickly",
+        "original",
+        "sour-bubble",
+        "tropical-punch",
+        "watermelon-punch",
+        "prime",
+        "junk"
     },
     food = {
         "twerks_candy",
         "snikkel_candy",
         "crisps",
-        "nachos"
+        "nachos",
+        "cheetos1",
+        "cheetos2",
+        "cheetos3",
+        "cheetos4",
+        "crisps",
+        "doritos",
+        "eye_kandy",
+        "fort_bites",
+        "fritos1",
+        "fritos2",
+        "health_bar",
+        "jail_breakers",
+        "kittycookies",
+        "kittycrisps",
+        "laysblack",
+        "laysgreen",
+        "laysyellow",
+        "meowmallows",
+        "nerd_tats",
+        "snikkel_candy2",
+        "sugar_butts",
+        "sunchips1",
+        "sunchips2",
+        "twerks_candy2"
     }
 }
 
 -- INVENTORIES 
 local invCoffee = {
-    { name = "coffee", price = 10 }
+    { name = "coffee", price = 25 }
 }
 
 local invSoda = {
-    { name = "ecola", price = 10 },
-    { name = "ecolalight", price = 10 },
-    { name = "sprunk", price = 10 },
-    { name = "sprunklight", price = 10 },
+    { name = "ecola", price = 25 },
+    { name = "ecolalight", price = 25 },
+    { name = "sprunk", price = 25 },
+    { name = "sprunklight", price = 25 },
+    { name = "faygo-cottoncandy", price = 25 },
+    { name = "faygo-cream", price = 25 },
+    { name = "faygo-orange", price = 25 },
+    { name = "faygo-pineapple", price = 25 },
+    { name = "faygo-redpop", price = 25 },
+    { name = "el-mango", price = 25 },
+    { name = "hemp-prickly", price = 25 },
+    { name = "original", price = 25 },
+    { name = "sour-bubble", price = 25 },
+    { name = "tropical-punch", price = 25 },
+    { name = "watermelon-punch", price = 25 },
+    { name = "prime", price = 25 },
+    { name = "junk", price = 25 },
 }
 
 local invWater = {
-    { name = "water_bottle", price = 10 }
+    { name = "water_bottle", price = 20 }
 }
 
 local invSnack = {
-    { name = "twerks_candy", price = 10 },
-    { name = "snikkel_candy", price = 10 },
-    { name = "crisps", price = 10 },
+    { name = "twerks_candy", price = 25 },
+    { name = "snikkel_candy", price = 25 },
+    { name = "crisps", price = 25 },
+    { name = "cheetos1", price = 25 },
+    { name = "cheetos2", price = 25 },
+    { name = "cheetos3", price = 25 },
+    { name = "cheetos4", price = 25 },
+    { name = "crisps", price = 25 },
+    { name = "doritos", price = 25 },
+    { name = "eye_kandy", price = 25 },
+    { name = "fort_bites", price = 25 },
+    { name = "fritos1", price = 25 },
+    { name = "fritos2", price = 25 },
+    { name = "health_bar", price = 25 },
+    { name = "jail_breakers", price = 25 },
+    { name = "kittycookies", price = 25 },
+    { name = "kittycrisps", price = 25 },
+    { name = "laysblack", price = 25 },
+    { name = "laysgreen", price = 25 },
+    { name = "laysyellow", price = 25 },
+    { name = "meowmallows", price = 25 },
+    { name = "nerd_tats", price = 25 },
+    { name = "snikkel_candy2", price = 25 },
+    { name = "sugar_butts", price = 25 },
+    { name = "sunchips1", price = 25 },
+    { name = "sunchips2", price = 25 },
+    { name = "twerks_candy2", price = 25 },
 }
 
 local invFood = {
-    { name = "nachos", price = 10 },
-    { name = "tosti", price = 10 },
-    { name = "sandwich", price = 10 },
-    { name = "minticecream", price = 10 },
-    { name = "chocolateicecream", price = 10 },
-    { name = "vanillaicecream", price = 10 },
-    { name = "cookiesandcreamicecream", price = 10 },
+    { name = "nachos", price = 25 },
+    { name = "tosti", price = 25 },
+    { name = "sandwich", price = 25 },
+    { name = "minticecream", price = 25 },
+    { name = "chocolateicecream", price = 25 },
+    { name = "vanillaicecream", price = 25 },
+    { name = "cookiesandcreamicecream", price = 25 },
 }

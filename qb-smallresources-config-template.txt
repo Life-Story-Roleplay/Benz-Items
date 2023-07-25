@@ -1,10 +1,46 @@
 Config.ConsumablesEat = {
-
-    --["sandwich"] = math.random(35, 54),
+    ["cheetos1"] = math.random(35, 54),
+    ["cheetos2"] = math.random(35, 54),
+    ["cheetos3"] = math.random(35, 54),
+    ["cheetos4"] = math.random(35, 54),
+    ["crisps"] = math.random(35, 54),
+    ["doritos"] = math.random(35, 54),
+    ["eye_kandy"] = math.random(35, 54),
+    ["fort_bites"] = math.random(35, 54),
+    ["fritos1"] = math.random(35, 54),
+    ["fritos2"] = math.random(35, 54),
+    ["health_bar"] = math.random(35, 54),
+    ["jail_breakers"] = math.random(35, 54),
+    ["kittycookies"] = math.random(35, 54),
+    ["kittycrisps"] = math.random(35, 54),
+    ["laysblack"] = math.random(35, 54),
+    ["laysgreen"] = math.random(35, 54),
+    ["laysyellow"] = math.random(35, 54),
+    ["meowmallows"] = math.random(35, 54),
+    ["nerd_tats"] = math.random(35, 54),
+    ["snikkel_candy2"] = math.random(35, 54),
+    ["sugar_butts"] = math.random(35, 54),
+    ["sunchips1"] = math.random(35, 54),
+    ["sunchips2"] = math.random(35, 54),
+    ["twerks_candy2"] = math.random(35, 54),
+    ["nachos"] = math.random(35, 54),
 }
 
 Config.ConsumablesDrink = {
-    --["water_bottle"] = math.random(35, 54),
+    ["duffbeer"] = math.random(35, 54)
+    ["faygo-cottoncandy"] = math.random(35, 54)
+    ["faygo-cream"] = math.random(35, 54)
+    ["faygo-orange"] = math.random(35, 54)
+    ["faygo-pineapple"] = math.random(35, 54)
+    ["faygo-redpop"] = math.random(35, 54)
+    ["el-mango"] = math.random(35, 54)
+    ["hemp-prickly"] = math.random(35, 54)
+    ["original"] = math.random(35, 54)
+    ["sour-bubble"] = math.random(35, 54)
+    ["tropical-punch"] = math.random(35, 54)
+    ["watermelon-punch"] = math.random(35, 54)
+    ["prime"] = math.random(35, 54)
+    ["junk"] = math.random(35, 54)
 }
 
 Config.ConsumablesAlcohol = {
